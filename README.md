@@ -5,9 +5,9 @@ An openCV game where the player controls the avatar through a webcam using a tec
 
 **Prerequisites:** openFrameworks (should work on lastest if not try v0.10.1), ofxCv, ofxOpenCv
 
-**Step 1:** Download openFrameworks and follow the setup guide for your OS and IDE.
+**Step 1:** Download [openFrameworks](https://openframeworks.cc/download/) and follow the setup guide for your OS and IDE.
 
-**Step 2:** Download or clone ofxCv into the openFrameworks/addons directory.
+**Step 2:** Download or clone [ofxCv](https://github.com/kylemcdonald/ofxCv) into the openFrameworks/addons directory.
 
 **Step 3:** Create a new project using the projectGenerator, which is located in the directory openFrameworks/projectGenerator. Then using the addons button, add ofxCv to the project.
 
